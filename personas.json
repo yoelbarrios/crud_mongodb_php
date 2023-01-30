@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "63d538da30a0d5839214b4f1"
+  },
+  "paterno": "huama",
+  "materno": "gonzales",
+  "nombre": "lala",
+  "edad": "19"
+},{
+  "_id": {
+    "$oid": "63d538da30a0d5839214b4f3"
+  },
+  "paterno": "donaruma",
+  "materno": "estrada",
+  "nombre": "gigi",
+  "edad": "29"
+},{
+  "_id": {
+    "$oid": "63d55053133b22655f0b7095"
+  },
+  "nombre": "felix",
+  "paterno": "roldan",
+  "materno": "quispe",
+  "edad": "16"
+},{
+  "_id": {
+    "$oid": "63d5aafb16d6fd39fa054933"
+  },
+  "nombre": "admin",
+  "paterno": "morales",
+  "materno": "spider",
+  "edad": "33"
+},{
+  "_id": {
+    "$oid": "63d5ac1316d6fd39fa054934"
+  },
+  "nombre": "admin",
+  "paterno": "morales",
+  "materno": "spider",
+  "edad": "65"
+},{
+  "_id": {
+    "$oid": "63d5aef316d6fd39fa054935"
+  },
+  "nombre": "eiza",
+  "paterno": "sanches",
+  "materno": "bogani",
+  "edad": "33"
+}]
